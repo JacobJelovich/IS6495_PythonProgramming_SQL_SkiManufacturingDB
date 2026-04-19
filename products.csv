@@ -1,0 +1,16 @@
+prod_name,type,price,makeup,man_cost,ski_name,dim
+Downhill Pro,Skis,599.99,Wood/Carbon,200.00,The Shredder,170cm
+Cross Country,Skis,349.50,Fiberglass,120.00,Glide Master,185cm
+Mountain Poles,Poles,45.00,Aluminum,15.00,SupportX,120cm
+Safety Helmet,Safety,120.00,Polycarbonate,40.00,BrainBucket,M
+Speed Wax,Accessory,25.99,Paraffin,5.00,FastSlide,N/A
+Powder Shredders,Skis,750.00,Carbon/Kevlar,300.00,DeepSnow,180cm
+Junior Skis,Skis,199.00,Composite,80.00,LilRipper,140cm
+All-Mountain Boots,Boots,299.99,Molded Plastic,110.00,FlexFit,27.5
+Racing Boots,Boots,450.00,Carbon Shell,180.00,Bolt,26.5
+Carbon Poles,Poles,85.00,Carbon Fiber,30.00,LightSticks,125cm
+Ski Bag,Accessory,55.00,Nylon,20.00,Traveler,N/A
+Goggles Pro,Safety,89.00,Dual Lens,30.00,ClearView,N/A
+Base Layer Top,Apparel,45.00,Merino Wool,15.00,WarmCore,L
+Ski Gloves,Apparel,65.00,GoreTex,25.00,DryHands,XL
+Tuning Kit,Accessory,110.00,Mixed Tools,45.00,EdgeFix,N/A
